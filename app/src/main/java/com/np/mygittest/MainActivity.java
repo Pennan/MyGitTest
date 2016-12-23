@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("TAG", "First update.");
         Log.i("TAG", "I'm origin/master update.");
+        Log.i("TAG", "I'm origin/master update2.You should execute git pull origin master to update.");
     }
 }
